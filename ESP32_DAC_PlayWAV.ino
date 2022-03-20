@@ -16,6 +16,7 @@
 */
 
 #include "aaaaa.h"
+#include "Game_Audio.h"
 
 Game_Audio_Class GameAudio(25,0); 
 
