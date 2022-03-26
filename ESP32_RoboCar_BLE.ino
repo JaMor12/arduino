@@ -1,3 +1,9 @@
+#include <BluetoothSerial.h>
+
+BluetoothSerial SerialBT;
+
+char BTbuf[255];
+
 // PWM to DRV8833 dual H-bridge motor driver, PWM freq. = 1000 Hz
 // BLE to receive/transmit data with smartphone app BLE2RC
 
